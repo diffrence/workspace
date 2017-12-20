@@ -1,0 +1,116 @@
+.share-to { z-index: 2; width: 30px;    height: 40px;
+    right: 0px;top: 410px;cursor: pointer;position: absolute;}
+
+.share-to .bdshare-button-style1-32 .bds_weixin {
+    background-position: -179px -92px
+}
+
+.share-to .bdshare-button-style1-32 a {
+    width: 42px;
+    height: 42px;
+    color: red;
+    outline: 0
+}
+
+.btn_copy,.inpu {
+    height: 28px;
+    line-height: 28px
+}
+
+.share-to .bdshare-button-style1-32 .bds_qzone {
+    background-position: -59px -92px
+}
+
+.share-to .bdshare-button-style1-32 .bds_tsina {
+    background-position: 0 -92px
+}
+
+.share-to .bdshare-button-style1-32 .bds_sqq {
+    background-position: -119px -92px
+}
+
+.share-to .bdshare-button-style1-32 a:hover {
+    color: red;
+    background-color: #fff
+}
+
+.embedBox {
+    width: 270px;
+    right: 0;
+    top: 50px;
+    color: #ccc
+}
+
+.bdshare-button-style1-32 {
+    position: absolute;
+    padding-left: 30px;
+    top: 1px;
+    right: 0;
+    width: 240px
+}
+
+.inpu {
+    padding-left: 5px;
+    width: 170px;
+    color: #ccc;
+    border: 1px solid #e4e4e4;
+    border-right: none
+}
+
+.btn_copy a {
+    color: #022
+}
+
+.btn_copy {
+    display: inline;
+    width: 82px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    text-align: center
+}
+
+.tocontrol {
+    display: none;
+    background: #e3e3e3;
+    right: 30px;
+    background-color: #fff;
+    width: 270px;
+    height: 130px;
+    padding: 2px 9px;
+    top: -9px;
+    box-shadow: 0 1px 1px #ababab;
+    position: absolute;
+}
+
+.share_code {
+    margin-top: 5px;
+    position: relative;
+    width: 270px;
+    height: 30px
+}
+
+.share_tips {
+    text-align: center;
+    line-height: 32px;
+    color: #fff;
+    left: 115px;
+    top: -25px;
+    position: absolute;
+    width: 110px;
+    height: 32px;
+    background-image: url(./image/copysuc.png)
+}
+
+.share-to,.share-to .bdsharebuttonbox a {
+    background-image: url(./image/share-icon.png);
+    background-repeat: no-repeat
+}
+.embedBox {
+    width: 270px;
+    right: 0;
+    top: 50px;
+    color: #ccc;
+    position: absolute;
+}
+.hide{display: none;}
+.fl{float: left;}
