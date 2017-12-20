@@ -42,7 +42,9 @@ function loadedHandler(){
 
 ### 调用方式
 
-##谢庆华 芳芳 你很帅
+##谢庆华 芳芳 你很帅 成功
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
 
 
 
