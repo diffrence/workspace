@@ -48,9 +48,22 @@ function loadedHandler(){
 ## 百度分享组件
 
 ### 组件介绍
+```
+在百度分享的基础上增加了视频播放器的分享，即可以分享网址也可以分享视频播放
+```
+
+### 引入方式
+#### 引入下列文件到.`./demo/index.html`
+```
+ <link rel="stylesheet" type="text/css" href="../share.css"/>
+  /demo/share.html
+ <script type="text/javascript" src='../share.js'></script>
+
+```
 
 ### 调用方式
-
-
+```
+引入share.js 即自调用。己的share.js放在share.html 下面
+```
 
 
