@@ -43,7 +43,7 @@ function loadedHandler(){
 > 分享的视频object代码必须引用ckplayer.js , 否则分享的视频跨域不能播放
 
 > crossdomain.xml 文件放在网站的根下
-
+******
 ## 百度分享组件
 
 ### 组件介绍
