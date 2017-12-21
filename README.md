@@ -9,6 +9,7 @@
 <script type="text/javascript" src='../dist/ckplayer.js'></script>
 <script type="text/javascript" src='../index.js'></script>
 `
+
 ### 调用方法
 `
 var videoObject = {
@@ -32,9 +33,10 @@ function loadedHandler(){
 `
 
 ### 使用注意事项
-1，安装启动http-server 可访问demo/index.html演示
-2,分享的视频object代码必须引用ckplayer.js , 否则分享的视频跨域不能播放
-3,crossdomain.xml 文件放在网站的根下
+
+####安装启动http-server 可访问demo/index.html演示
+####分享的视频object代码必须引用ckplayer.js , 否则分享的视频跨域不能播放
+####crossdomain.xml 文件放在网站的根下
 
 ## 百度分享组件
 
