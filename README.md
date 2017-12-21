@@ -42,8 +42,7 @@ function loadedHandler(){
 
 ### 调用方式
 
-##谢庆华 芳芳 你很帅 成功
-龙芳
+##
 
 
 
