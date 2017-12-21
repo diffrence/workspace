@@ -5,10 +5,9 @@
 
 ### 引入方式
 
-````
- <link rel="stylesheet" type="text/css" href="../share.css"/>
+```` 
  <script type="text/javascript" src='../dist/ckplayer.js'></script>
- <script type="text/javascript" src='../index.js'></script>
+
 ````
 
 ### 调用方法
