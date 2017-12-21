@@ -27,7 +27,7 @@ var videoObject = {
    var player=new ckplayer(videoObject);
 ````
 
-### 主要配置和接口
+### 主要接口
 
 ```
 在播放器加载后的回调函数里添加监听函数
@@ -39,7 +39,7 @@ function loadedHandler(){
 
 ### 使用注意事项
 
-> 安装启动http-server 可访问demo/index.html演示
+> 把文件包放在服务器上可访问demo/index.html演示
 
 > 分享的视频object代码必须引用ckplayer.js , 否则分享的视频跨域不能播放
 
