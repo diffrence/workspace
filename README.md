@@ -4,6 +4,7 @@
 
 
 ### 引入方式
+
 `
 <link rel="stylesheet" type="text/css" href="../share.css"/>
 <script type="text/javascript" src='../dist/ckplayer.js'></script>
@@ -21,9 +22,12 @@ var videoObject = {
             poster:hmypic,//封面图片
             video:hm3u8//视频地址
         };
+
         var player=new ckplayer(videoObject);
 `
+
 ### 主要配置和接口
+
 `
 在播放器加载后的回调函数里添加监听函数
 function loadedHandler(){
@@ -34,9 +38,11 @@ function loadedHandler(){
 
 ### 使用注意事项
 
-####安装启动http-server 可访问demo/index.html演示
-####分享的视频object代码必须引用ckplayer.js , 否则分享的视频跨域不能播放
-####crossdomain.xml 文件放在网站的根下
+#### 安装启动http-server 可访问demo/index.html演示
+
+#### 分享的视频object代码必须引用ckplayer.js , 否则分享的视频跨域不能播放
+
+#### crossdomain.xml 文件放在网站的根下
 
 ## 百度分享组件
 
@@ -44,7 +50,6 @@ function loadedHandler(){
 
 ### 调用方式
 
-##
 
 
 
