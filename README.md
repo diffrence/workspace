@@ -62,7 +62,7 @@ function loadedHandler(){
 
 ### 调用方式
 ```
-引入share.js 即自调用。己的share.js放在share.html 下面
+引入share.js 即自调用。记得share.js放在share.html下面
 ```
 
 
