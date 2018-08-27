@@ -65,3 +65,7 @@
     new copyInput ("#codeone" , ".btn_copy");
     new copyInput ("#codetwo" , ".btn_copy");
 })()
+
+(function(){
+    
+})()
